@@ -15,7 +15,7 @@ I'm on a thrilling journey to become a Data Scientist 📊. Currently a Computer
 
 [GitHub Profile](https://github.com/mmdreza-zaheri)
 
-## GitHub Stats (Dark Mode)
+## GitHub Stats 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdreza-zaheri&show_icons=true&theme=dark)
 
@@ -23,10 +23,8 @@ I'm on a thrilling journey to become a Data Scientist 📊. Currently a Computer
 
 Feel free to connect with me to share insights, collaborate on projects, or simply chat about the fascinating world of Data Science and Python. Looking forward to connecting with fellow tech enthusiasts! 🚀
 
-[![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://www.python.org/)
+[![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/)
 [![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)](https://jupyter.org/)
-
-
 
 <!---
 Mmdreza-zaheri/Mmdreza-zaheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
