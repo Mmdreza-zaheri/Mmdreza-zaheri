@@ -6,24 +6,26 @@ I'm on a thrilling journey to become a Data Scientist 📊. Currently a Computer
 - 🌱 I’m currently learning and exploring various tools and techniques.
 - 💬 Ask me about anything related to Data Science and Python!
 - 📫 How to reach me: zahery667@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I find hidden patterns in data like a detective in a mystery novel.
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername) | [Personal Website](https://www.yourwebsite.com)
+[Telegram](https://t.me/mmd2359) | [Personal Website](https://www.yourwebsite.com)
 
 ## Check Out My Work
 
 [GitHub Profile](https://github.com/mmdreza-zaheri)
 
-## GitHub Stats
+## GitHub Stats (Dark Mode)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdreza-zaheri&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdreza-zaheri&show_icons=true&theme=dark)
 
 ## Let's Connect
 
 Feel free to connect with me to share insights, collaborate on projects, or simply chat about the fascinating world of Data Science and Python. Looking forward to connecting with fellow tech enthusiasts! 🚀
+
+[![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://www.python.org/)
+[![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)](https://jupyter.org/)
+
 
 
 <!---
