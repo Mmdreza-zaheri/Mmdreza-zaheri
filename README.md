@@ -17,7 +17,7 @@
 
 [GitHub Profile](https://github.com/mmdreza-zaheri)
 
-## GitHub Stats (Dark Mode)
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdreza-zaheri&show_icons=true&theme=dark)
 
