@@ -5,7 +5,9 @@
 - Passionate about learning Data Science 📊 and coding with Python 🐍.
 - Eager to explore the endless possibilities of technology 🌐.
   
-![python-logo@2x](https://github.com/Mmdreza-zaheri/Mmdreza-zaheri/assets/124300818/c9945775-ee75-4339-9bee-bf9e3a59f92a)![rectanglelogo-greytext-orangebody-greymoons](https://github.com/Mmdreza-zaheri/Mmdreza-zaheri/assets/124300818/ebf6b7c9-9aeb-4b4e-b9a7-48a6c6b24dce)
+![main-logo](https://github.com/Mmdreza-zaheri/Mmdreza-zaheri/assets/124300818/1251808e-7003-46c2-a13a-dc647dc94809)
+![psf-logo@2x](https://github.com/Mmdreza-zaheri/Mmdreza-zaheri/assets/124300818/fb0c9c2e-febd-4299-a648-216d5eea13a2)
+
 
 
 <!---
