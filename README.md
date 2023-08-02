@@ -1,13 +1,29 @@
-# Welcome to my GitHub world! 🌟
-- 👋 Hi, I’m @Mmdreza-zaheri
+# Hello, World! 👋 I'm Mamzi - Mohammadreza Zaheri
 
-- Computer Science student at Isfahan University 🎓
-- Passionate about learning Data Science 📊 and coding with Python 🐍.
-- Eager to explore the endless possibilities of technology 🌐.
-  
-![psf-logo@2x](https://github.com/Mmdreza-zaheri/Mmdreza-zaheri/assets/124300818/c4a4817f-2f04-47e9-b576-4a1f47f18b11)
+I'm on a thrilling journey to become a Data Scientist 📊. Currently a Computer Science student at the University of Isfahan 🎓, I'm passionate about the world of data and its endless possibilities.
 
+- 🔭 I’m currently working on honing my skills as a Data Scientist.
+- 🌱 I’m currently learning and exploring various tools and techniques.
+- 💬 Ask me about anything related to Data Science and Python!
+- 📫 How to reach me: zahery667@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I find hidden patterns in data like a detective in a mystery novel.
 
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername) | [Personal Website](https://www.yourwebsite.com)
+
+## Check Out My Work
+
+[GitHub Profile](https://github.com/mmdreza-zaheri)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdreza-zaheri&show_icons=true)
+
+## Let's Connect
+
+Feel free to connect with me to share insights, collaborate on projects, or simply chat about the fascinating world of Data Science and Python. Looking forward to connecting with fellow tech enthusiasts! 🚀
 
 
 <!---
