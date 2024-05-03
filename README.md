@@ -11,7 +11,7 @@
 
 ## Connect with Me
 
-[Telegram](https://t.me/mmd2359) | [Instagram](https://www.instagram.com/mmdreza_zaheri) 
+[Telegram](https://t.me/mmd2359) | [Instagram](https://www.instagram.com/mmdreza_zaheri) | [Linkedin](https://www.linkedin.com/in/mohamadreza-zaheri-861400224/)
 
 ## Check Out My Work
 
